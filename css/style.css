@@ -1,0 +1,155 @@
+body { 
+	margin:0px
+
+}
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.Header_areia {
+    background-size: contain;
+    padding: 200px;
+}
+.Header_areia h1 {
+    color: white;
+}
+.Header_areia p {
+    color: #850e0e;
+}
+.Header_areia a {
+    border: 2px solid #65cbb8;
+    background-color: #caebc4f2;
+    size: 10px;
+}
+.button1 {
+    background-color: #61e38300;
+    color: #fdfdfd;
+    border: 2px solid #4CAF50;
+}
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.content_areia {
+    background-color: #efe4d5;
+    padding: 50px;
+}
+.content_areia  img {
+    float: left;
+    width: 300px;
+    padding-left: 45px;
+    padding-right: 40px;
+}
+.content_areia h3 {
+    font-size: 30px;
+    font-family: cursive;
+    padding-left: 500px;
+	color: white;
+	text-shadow: 2px 2px 4px #000000;
+}
+.content_areia p {
+    font-weight: bold;
+    width: 554px;
+    padding-left: 500px;
+    text-align: center;
+}
+.content_areia1 {
+    background-color: burlywood;
+    padding: 50px;
+}
+.content_areia1  img {
+    float: right;
+    width: 300px;
+}
+.content_areia1 h3 {
+    font-size: 30px;
+    font-family: cursive;
+    padding-left: 150px;
+	color: white;
+	text-shadow: 2px 2px 4px #000000;
+}
+.content_areia1 p {
+    font-weight: bold;
+    width: 554px;
+    padding-left: 150px;
+    text-align: center;
+}
+.content_areia2 {
+    background-color: #b58c53;
+    padding: 50px;
+}
+.content_areia2  img {
+    float: left;
+    width: 300px;
+    padding-left: 45px;
+    padding-right: 40px;
+}
+.content_areia2 h3 {
+    font-size: 30px;
+    font-family: cursive;
+    padding-left: 500px;
+	color: white;
+	text-shadow: 2px 2px 4px #000000;
+}
+.content_areia2 p {
+    font-weight: bold;
+    width: 554px;
+    padding-left: 500px;
+    text-align: center;
+}
+.content_areia3 {
+    background-color: #efe4d5;
+    padding: 50px;
+}
+.content_areia3  img {
+    float: right;
+    width: 300px;
+}
+.content_areia3 h3 {
+    font-size: 30px;
+    font-family: cursive;
+    padding-left: 150px;
+	color: white;
+	text-shadow: 2px 2px 4px #000000;
+}
+.content_areia3 p {
+    font-weight: bold;
+    width: 554px;
+    padding-left: 150px;
+    text-align: center;
+}
+.content_areia4 {
+    background-color: #c0e1a3;
+    padding: 50px;
+}
+.content_areia4  img {
+    float: left;
+    width: 300px;
+    padding-left: 45px;
+    padding-right: 40px;
+}
+.content_areia4 h3 {
+    font-size: 30px;
+    font-family: cursive;
+    padding-left: 500px;
+	color: white;
+	text-shadow: 2px 2px 4px #000000;
+}
+.content_areia4 p {
+    font-weight: bold;
+    width: 554px;
+    padding-left: 500px;
+    text-align: center;
+}
